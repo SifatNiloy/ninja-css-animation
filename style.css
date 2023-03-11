@@ -8,13 +8,12 @@ body {
 .main-body-wrapper {
     width: 100vw;
     height: 100vh;
-    /* background-image: url("/assets/bg.jpg"); */
+    background-image: url("/assets/bg.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("/assets/bg-2.jpg");
     padding-left: 10rem;
-    
+    padding-bottom: 5rem;
     padding-left: 10rem;
 
 }
@@ -24,7 +23,7 @@ body {
     justify-content: space-between;
     align-items: center;
     margin-right: 10%;
-    margin-top: 10%;
+    padding-top: 8%;
 }
 
 .left-part h2 {
