@@ -352,8 +352,8 @@ svg {
 }
 
 svg {
-    -webkit-animation: svg 16s ease-in-out 1s both reverse;
-    animation: svg 16s ease-in-out 1s both reverse;
+    -webkit-animation: svg 16s ease-in-out 0s both reverse;
+    animation: svg 16s ease-in-out 0s both reverse;
 }
 
 @-webkit-keyframes svg {
